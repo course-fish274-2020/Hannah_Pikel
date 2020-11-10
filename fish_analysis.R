@@ -1,6 +1,6 @@
 #reading in the data
 
-fish_data <- read.csv("data/Gaeta_etal_CLC_data (1).csv")
+fish_data <- read.csv("data/Gaeta_etal_CLC_data_1.csv")
 
 #creating an additional column that classifies fish bigger than 300mm as big
 
