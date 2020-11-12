@@ -19,3 +19,5 @@ ggplot(fish_data_cat, aes(x = scalelength, fill = length_cat)) +
   geom_histogram()
 
 ggsave("plots/scale_hist_by_length.jpg")
+
+View(fish_data)
